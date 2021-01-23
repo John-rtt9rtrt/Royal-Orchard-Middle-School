@@ -37,3 +37,16 @@
 #achievements{
     text-align: center;
 }
+
+#alumni{
+    text-align: center;
+}
+
+.Namee{
+    color: darkblue;
+    font-family: inherit;
+}
+
+.datee{
+    font-family: monospace;
+}
